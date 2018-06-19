@@ -1,0 +1,22 @@
+.InfoContainer{
+  height: 72px;
+  width: 380px;
+  margin: auto;
+  text-align: center;  
+  display: block;
+  padding-top: 25px;
+  box-sizing: border-box;
+}
+
+.InfoContainer span{  
+  font-size: 1.5em;
+  color: white;
+}
+
+.red{
+  background-color: lightcoral; 
+}
+
+.cyan{
+  background-color: cyan;
+}

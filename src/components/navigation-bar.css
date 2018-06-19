@@ -1,0 +1,19 @@
+.navigation-bar{
+  padding: 5px 5px 5px 5px;
+}
+
+.navigation-bar-nav li{
+  list-style: none;  
+  display: inline;
+}
+
+.navigation-bar-nav li a{
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.navigation-bar-nav ul li:nth-child(2) {
+  float: right;
+  margin-right: 25px;
+}
